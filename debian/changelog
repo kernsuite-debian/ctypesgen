@@ -1,0 +1,5 @@
+ctypesgen (0+git20150511-1kern1) bionic; urgency=low
+
+  * Initial release.
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 27 Mar 2018 15:23:16 +0000

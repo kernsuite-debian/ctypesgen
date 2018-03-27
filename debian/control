@@ -1,0 +1,17 @@
+Source: ctypesgen
+Section: python
+Priority: extra
+Maintainer: KERN packaging <packaging@kernsuite.info>
+Build-Depends: debhelper (>=9), dh-python, python-all
+Standards-Version: 3.9.8
+Homepage: https://github.com/davidjamesca/ctypesgen
+X-Python-Version: >= 2.6
+
+Package: ctypesgen
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Pure-python wrapper generator for ctypes
+ ctypesgen is a pure-python ctypes wrapper generator. It can also
+ output JSON, which can be used with Mork, which generates bindings for
+ Lua, using the alien module (which binds libffi to Lua).
