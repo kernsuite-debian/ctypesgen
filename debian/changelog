@@ -1,3 +1,11 @@
+ctypesgen (0.0~git20150511.3d2d980-1) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * update watch file
+  * New upstream version 0.0~git20150511.3d2d980
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 20 Aug 2018 12:53:52 +0200
+
 ctypesgen (0+git20150511-1kern1) bionic; urgency=low
 
   * Initial release.
