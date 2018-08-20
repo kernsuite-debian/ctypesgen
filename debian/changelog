@@ -1,3 +1,10 @@
+ctypesgen (0.0~git20150511.3d2d980-2) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * Add patches for fixing bifrost error
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 20 Aug 2018 13:20:42 +0200
+
 ctypesgen (0.0~git20150511.3d2d980-1) bionic; urgency=medium
 
   [ Gijs Molenaar ]
